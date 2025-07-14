@@ -1,0 +1,1 @@
+The purpose of this project is to showcase my ability to transfer my knowledge of everything I have learned up until this point to create a landing page.
